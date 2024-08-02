@@ -17,6 +17,7 @@ public class A22 {
 		}
 	}
 	System.out.println(max);
+	System.out.println(maxCount);
 	}
 
 public static int countDigits(int n, int k) {

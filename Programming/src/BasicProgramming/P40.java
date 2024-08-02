@@ -1,4 +1,5 @@
 package BasicProgramming;
+//WAP to find the given number is Armstrong number or not. 
 
 public class P40 {
 	public static void main(String[] args) {
